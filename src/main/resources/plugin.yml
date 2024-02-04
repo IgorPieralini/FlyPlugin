@@ -1,0 +1,17 @@
+name: FlyPlugin
+version: 1.0-SNAPSHOT
+main: me.pieralini.flyplugin.FlyPlugin
+api-version: 1.8.8
+author: Pieralini
+description: Plugin de Voar
+
+commands:
+  fly:
+    description: Comando para habilitar voar.
+    usage: /<command>
+
+permissions:
+  flyplugin.fly:
+    description: permissão para voar
+  flypluing.admin:
+    description: permissão para fazer outros voarem

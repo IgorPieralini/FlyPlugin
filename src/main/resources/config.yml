@@ -1,0 +1,2 @@
+on-message: '&8[&6Player&8] &b Você pode voar agora!'
+off-meesage: '&8[&6Player&8] &b Você não está mais voando!'
